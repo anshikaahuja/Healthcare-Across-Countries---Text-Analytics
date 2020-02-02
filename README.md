@@ -44,8 +44,8 @@ We scraped data from various blogs to understand the expert opinion, from variou
 **3. Themes**
 
 **US**<br />
-![Alt Text](ThemesUS.png) <br />
+![Alt Text](ThemesUS.PNG) <br />
 **Europe**<br />
-![Alt Text](ThemesEurope.png) <br />
+![Alt Text](ThemesEurope.PNG) <br />
 **Africa**<br />
-![Alt Text](ThemesAfrica.png) <br />
+![Alt Text](ThemesAfrica.PNG) <br />
