@@ -28,26 +28,24 @@ We scraped data from various blogs to understand the expert opinion, from variou
 
 ## Results
 
-**Healthcare Expenditure across countries**
+**1. Healthcare Expenditure across countries**
 
 ![Alt Text](Health%20Expenditure.png)
 
-**Topic Modelling** <br />
+**2. Topic Modelling** <br />
 
+**US**<br />
 ![Alt Text](Topics1.png)
-
+**Europe**<br />
 ![Alt Text](Topics2.png)
-
+**Africa**<br />
 ![Alt Text](Topics3.png)
 
-**Themes on US**
+**3. Themes**
 
+**US**<br />
 ![Alt Text](ThemesUS.png)
-
-**Themes on Europe**
-
+**Europe**<br />
 ![Alt Text](ThemesEurope.png)
-
-**Themes on Africa**
-
+**Africa**<br />
 ![Alt Text](ThemesAfrica.png)
