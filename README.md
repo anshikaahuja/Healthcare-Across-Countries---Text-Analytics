@@ -35,17 +35,17 @@ We scraped data from various blogs to understand the expert opinion, from variou
 **2. Topic Modelling** <br />
 
 **US**<br />
-![Alt Text](Topics1.png)
+![Alt Text](Topics1.png) <br />
 **Europe**<br />
-![Alt Text](Topics2.png)
+![Alt Text](Topics2.png) <br />
 **Africa**<br />
 ![Alt Text](Topics3.png)
 
 **3. Themes**
 
 **US**<br />
-![Alt Text](ThemesUS.png)
+![Alt Text](ThemesUS.png) <br />
 **Europe**<br />
-![Alt Text](ThemesEurope.png)
+![Alt Text](ThemesEurope.png) <br />
 **Africa**<br />
-![Alt Text](ThemesAfrica.png)
+![Alt Text](ThemesAfrica.png) <br />
