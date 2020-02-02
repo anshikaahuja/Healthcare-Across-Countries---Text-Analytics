@@ -4,11 +4,11 @@
 This project is a part of the coursework for Text Analytics. Here we scraped data from various websites to understand the major differences in healthcare systems across 3 countries.
 
 ## Table of contents
-- [Business Problem](https://github.com/anshikaahuja/Healthcare-Across-Countries-Text-Analytics/blob/master/README.md#introduction)
+- [Business Problem](https://github.com/anshikaahuja/Healthcare-Across-Countries-Text-Analytics/blob/master/README.md#business-problem)
 - [Data Used](https://github.com/anshikaahuja/Healthcare-Across-Countries-Text-Analytics/blob/master/README.md#data-used)
 - [Approach](https://github.com/anshikaahuja/Healthcare-Across-Countries-Text-Analytics/blob/master/README.md#approach)
-- [Algorithms/Libraries Used](https://github.com/anshikaahuja/Healthcare-Across-Countries-Text-Analytics/blob/master/README.md#approach)
-- [Results](https://github.com/anshikaahuja/Healthcare-Across-Countries-Text-Analytics/blob/master/README.md#approach)
+- [Algorithms/Libraries Used](https://github.com/anshikaahuja/Healthcare-Across-Countries-Text-Analytics/blob/master/README.md#algorithmslibraries-used)
+- [Results](https://github.com/anshikaahuja/Healthcare-Across-Countries-Text-Analytics/blob/master/README.md#results)
 
 ## Business Problem
 
@@ -18,5 +18,21 @@ We scraped data from various blogs to understand the expert opinion, from variou
 ## Approach
 
 ## Algorithms/Libraries Used
+- Scikit-learn and gensim.
+- Scit-kit gives more flexibility in terms of fine tuning the parameters
+- Word pre-processing - Stopwords removal and lemmatization
+- LDA modelling - hypertuned the parameters (number of topics, iterations etc) via sklearn Gridsearch
+- Topic modelling was done on user opinions from three geographies with different healthcare standards - US, Europe and Africa
+- Visualization was done with pyLDAvis library
+- Unsupervised Extractive Summarization - Tokenize and vector each sentence and performed cosine similarity
 
 ## Results
+
+**Healthcare Expenditure across countries**
+![Alt Text](Health%20Expenditure.png)
+
+**Topic Modelling**
+![Alt Text](Topics1.png)
+![Alt Text](Topics2.png)
+![Alt Text](Topics3.png)
+
