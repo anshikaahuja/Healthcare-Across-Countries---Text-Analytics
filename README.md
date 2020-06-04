@@ -17,6 +17,7 @@ Healthcare systems differ widely across various countries and perform the backbo
 3. What are the major themes being discussed on public platforms?
 4. What opinion do the experts have of the system?
 5. What image are the news websites portraying about the system?
+6. What metrics are used as proxy to measure the quality of healthcare systems?
 
 
 ## Data Used
