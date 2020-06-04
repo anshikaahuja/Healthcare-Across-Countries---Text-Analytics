@@ -11,7 +11,13 @@ This project is a part of the coursework for Text Analytics. Here we scraped dat
 - [Results](https://github.com/anshikaahuja/Healthcare-Across-Countries-Text-Analytics/blob/master/README.md#results)
 
 ## Business Problem
-Healthcare systems differ widely across various countries. Across the globe, health care policymakers face mounting pressure to lower costs while improving the quality and safety of care. Countries need analyze the sentiment
+Healthcare systems differ widely across various countries and perform the backbone of any developed country. Across the globe, health care policymakers face mounting pressure to lower costs while improving the quality and safety of care. Countries need to analyze the sentiment amongst the general public to better understand what is working for them and what is not? The following business questions can be answered through the analysis-
+1. How is their healthcare system performing as compared to other countries? 
+2. Does the general public have a positive or a negative sentiment towards the system?
+3. What are the major themes being discussed on public platforms?
+4. What opinion do the experts have of the system?
+5. What image are the news websites portraying about the system?
+
 
 ## Data Used
 We scraped data from various blogs to understand the expert opinion, from various news websites to understand what topics are being discussed in the news and from websites like Quora and Reddit to understand the public opionion.
